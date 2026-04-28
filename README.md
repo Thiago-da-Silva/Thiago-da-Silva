@@ -1,6 +1,6 @@
 # Hi, I'm Thiago da Silva 👋
 
-**Junior Developer & Data Analyst**
+**Developer & Data Analyst**
 
 📍 *Porto Ferreira, São Paulo, Brazil*
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Engineering student and Junior Developer with a strong background in combining software engineering with data analytics. I currently work in the electrical components industry, where I build RPA automations, data dashboards, and financial tools. I am passionate about end-to-end development, from creating Python-based IoT projects and hardware integrations to designing robust data pipelines with SQL and Power BI. 
+Computer Engineering student and Developer with a strong background in combining software engineering with data analytics. I currently work in the electrical components industry, where I build RPA automations, data dashboards, and financial tools. I am passionate about end-to-end development, from creating Python-based IoT projects and hardware integrations to designing robust data pipelines with SQL and Power BI. 
 
 I'm constantly looking to improve my architecture skills, currently focusing on "Clean Code" practices and preparing for Microsoft Azure and AI certifications.
 
@@ -29,7 +29,6 @@ I'm constantly looking to improve my architecture skills, currently focusing on 
 
 **Tools, IoT & Automation**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA_Automation-0066FF?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -39,16 +38,18 @@ I'm constantly looking to improve my architecture skills, currently focusing on 
 
 | Project | Description |
 |---------|-------------|
+| **Smart Finance Tracker** | A comprehensive personal finance system featuring full cash flow management and real-time investment tracking powered by external financial APIs. |
 | **Cosmo** | A custom home assistant integrating LangChain, Python, and Spotify APIs, deployed on a Raspberry Pi for wake-word detection and smart device control. |
-| **Reobra** | A marketplace platform designed with social and environmental impact in mind, focused on trading and repurposing construction material leftovers. |
-| **Undergraduate Thesis (TCC)** | Comparative academic research evaluating predictive models (LSTM vs. SARIMAX) for stock forecasting, alongside reinforcement learning simulations in CoppeliaSim. |
-| **Game Server Development** | Custom Tibia server development, involving XML configuration, map design using Remere's Map Editor, and custom sprite animation. |
+| **Predictive AI Research** | *Ongoing project* evaluating predictive models (LSTM vs. SARIMAX) for stock forecasting, alongside reinforcement learning simulations in robotic environments. |
+| **Autonomous Line-Following Robot** | Developed a reinforcement learning simulation in CoppeliaSim, training an autonomous robot to optimize its navigation and control policies for line-following tasks. |
+| **Game Server Development** | Development of custom MMORPG servers, focusing on **C++ engine modifications** for performance optimization and **Lua scripting** for complex game mechanics, events, and combat systems. |
 
 ---
 
 ## Experience Highlights
 
 **Developer** @ *Electrical Components Sector*
+- Core member of an internal startup initiative focused on engineering AI and RPA solutions to optimize company-wide processes.
 - Develop and maintain RPA automations, financial tools, and data dashboards utilizing C#, Python, SQL, and Power BI.
 - Led the internal "Do It Yourself" initiative to train non-technical teams on integrating AI tools (Copilot, ChatGPT, Gemini) into their daily workflows.
 
