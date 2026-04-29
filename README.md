@@ -62,7 +62,6 @@ I'm constantly looking to improve my architecture skills, currently focusing on 
 
 **Currently Studying & Pursuing:**
 - **Microsoft Certifications:** AZ-204 (Developing Solutions for Microsoft Azure) & AI-102 (Designing and Implementing an Azure AI Solution).
-- Real Estate Investment Funds (FIIs) analysis, with a focus on logistics and agribusiness sectors.
 
 ---
 
