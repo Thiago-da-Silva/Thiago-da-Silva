@@ -4,7 +4,7 @@
 
 📍 *Porto Ferreira, São Paulo, Brazil*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#) [![Portfolio/GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#) ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/thiago--silva) [![Portfolio/GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](github.com/Thiago-da-Silva) ---
 
 ## About Me
 
@@ -67,6 +67,6 @@ I'm constantly looking to improve my architecture skills, currently focusing on 
 
 ## Let's Connect
 
-Feel free to reach out for collaboration, tech discussions, or to talk about cars and clean code!
+Feel free to reach out for collaboration, tech discussions, or to talk about something!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](#) ```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/thiago--silva) ```
