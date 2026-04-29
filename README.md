@@ -69,4 +69,4 @@ I'm constantly looking to improve my architecture skills, currently focusing on 
 
 Feel free to reach out for collaboration, tech discussions, or to talk about something!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([linkedin.com/in/thiago--silva](https://www.linkedin.com/in/thiago-silva-232132259)) ```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-silva-232132259) ```
